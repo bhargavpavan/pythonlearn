@@ -1,0 +1,4 @@
+hai hello
+how are you
+where are you from
+this is sample file

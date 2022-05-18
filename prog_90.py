@@ -1,3 +1,9 @@
+# 1 1 1 1 1
+# 2 2 2 2
+# 3 3 3
+# 4 4
+# 5
+
 n=int(input("enter n value:"))
 k=1
 for i in range(n,0,-1):
